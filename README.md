@@ -1,5 +1,5 @@
 ## Hi there 👋, Welcome to my GitHub Profile!
-# My name is Piyush Hinduja
+# My name is Piyush Hinduja,
 👨‍🎓 I'm a MS CS student at The University of Utah.
 
 💻 My Areas of Interest:
