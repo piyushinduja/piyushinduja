@@ -16,7 +16,7 @@
 
 ☀ I love to watch movies/web series, play badmintion and cricket and spend my free time in committees and clubs.
 
-✅ Get to know more about me: 
+✅ Get to know more about me: [My Portfolio](https://piyushinduja.github.io/Portfolio/)
 
 📧 Feel free to contact me for collaboarations: piyushinduja20@gmail.com
 
