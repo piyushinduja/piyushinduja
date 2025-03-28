@@ -4,9 +4,9 @@
 
 💻 My Areas of Interest:
 
-- Machine Learning
+- Large Language Models (LLMs)
 
-- Natural Language Processing (NLP)
+- GenAI
 
 - Deep Learning
 
