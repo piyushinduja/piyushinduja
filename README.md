@@ -1,6 +1,6 @@
 ## Hi there 👋, Welcome to my GitHub Profile!
 # My name is Piyush Hinduja,
-👨‍🎓 I'm a MS CS student at The University of Utah.
+👨‍🎓 I'm a an AI Engineer designing task-specific AI models and scalable SaaS platforms that go beyond off-the-shelf LLMs.
 
 💻 My Areas of Interest:
 
@@ -8,13 +8,13 @@
 
 - GenAI
 
-- Deep Learning
+- RAG systems
 
-- Data Structures & Algorithms (DSA)
+- Distributed cloud computing (AWS and GCP)
 
 - Operating Systems
 
-☀ I love to watch movies/web series, play badmintion and cricket and spend my free time in committees and clubs.
+☀ Usually I keep myself too busy, but in my free time I love to watch movies/web series and hang out with my friends and family.
 
 ✅ Get to know more about me: [My Portfolio](https://piyushinduja.github.io/Portfolio/)
 
